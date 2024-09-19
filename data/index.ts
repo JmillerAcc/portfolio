@@ -76,7 +76,7 @@ export const projects = [
     des: "Built with NextJs, Acernity React Typescript.",
     img: "/CraftingJoy.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://momscraft.vercel.app",
   },
   {
     id: 2,
